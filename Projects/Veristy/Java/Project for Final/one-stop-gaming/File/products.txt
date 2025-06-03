@@ -1,0 +1,6 @@
+01;Apple MacBook Pro;Laptop;365000
+02;Lenovo IdeaPad;Laptop;65000
+06;Logitech H111;Headset;1000
+03;Samsung Galaxy A04;Smart Phone;14999
+04;iPhone 15 128GB Black;Smart Phone;135000
+05;Sony Bravia KD 32 Inch;Television;35000

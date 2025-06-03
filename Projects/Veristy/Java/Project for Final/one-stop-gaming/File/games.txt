@@ -1,0 +1,6 @@
+02;Rainbow Six Siege;FPS, Multiplayer, Tactical;PC, Console;15
+03;Counter Strike 2;FPS, Multiplayer, Shooting;PC;15
+04;Marvel Spider-Man;Superhero, Action, Story;Console;59
+01;Dota 2;Action, RPG, Multiplayer;PC;39
+05;League of Legend;MOBA, Action, Multiplayer;PC;29
+07;Dota;rpg;multi;40
