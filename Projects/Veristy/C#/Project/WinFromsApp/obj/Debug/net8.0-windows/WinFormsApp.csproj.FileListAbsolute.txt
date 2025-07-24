@@ -1,0 +1,359 @@
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.Properties.Resources.resources
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.SmartKroy.resources
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.GenerateResource.cache
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AssemblyInfo.cs
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.exe
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.deps.json
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.runtimeconfig.json
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.dll
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.pdb
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Guna.UI2.dll
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.Management.dll
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinForms.79E25943.Up2Date
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.dll
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\refint\WinFormsApp.dll
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.pdb
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.genruntimeconfig.cache
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\ref\WinFormsApp.dll
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.CreateAccount.resources
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.LoginForm.resources
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AdminLogin.resources
+E:\Study at AIUB\1.SEMESTERS\Semester 6 24-25, Spring\OBJECT ORIENTED PROGRAMMING 2 [P]\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.SupplierForm.resources
+C:\Users\pc\Downloads\7th semester\OOP2\Final\Project\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\7th semester\OOP2\Final\Project\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.dll
+C:\Users\pc\Downloads\7th semester\OOP2\Final\Project\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\refint\WinFormsApp.dll
+C:\Users\pc\Downloads\7th semester\OOP2\Final\Project\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.pdb
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.exe
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.deps.json
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.runtimeconfig.json
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.pdb
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AdminDashboard.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AdminLogin.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.CreateAccount.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.LoginForm.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.Properties.Resources.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.SmartKroy.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.SupplierForm.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinForms.79E25943.Up2Date
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\refint\WinFormsApp.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.pdb
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.genruntimeconfig.cache
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\ref\WinFormsApp.dll
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.exe
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.deps.json
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.runtimeconfig.json
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.dll
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.pdb
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AdminDashboard.resources
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AdminLogin.resources
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.CreateAccount.resources
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.LoginForm.resources
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.Properties.Resources.resources
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.SmartKroy.resources
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.SupplierForm.resources
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinForms.79E25943.Up2Date
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.dll
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\refint\WinFormsApp.dll
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.pdb
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.genruntimeconfig.cache
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\ref\WinFormsApp.dll
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.CategoryForm.resources
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.ManageProductsForm.resources
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.ManageSuppliersForm.resources
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.RecordForm.resources
+C:\Users\pc\Downloads\7th semester\OOP2\Final\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AdminDetails.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AdminDetails.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.CategoryForm.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.ManageProductsForm.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.ManageSuppliersForm.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.RecordForm.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.HomePage.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.HomeUser.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.ClothesUser.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.HouseProductUser.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.PCPartsUser.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.Cart.resources
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.exe
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.deps.json
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.runtimeconfig.json
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.pdb
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AdminDashboard.resources
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AdminDetails.resources
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AdminLogin.resources
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.Cart.resources
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.CategoryForm.resources
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.ClothesUser.resources
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.CreateAccount.resources
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.HomePage.resources
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.HomeUser.resources
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.HouseProductUser.resources
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.LoginForm.resources
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.ManageProductsForm.resources
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.ManageSuppliersForm.resources
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.PCPartsUser.resources
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.Properties.Resources.resources
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.RecordForm.resources
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.SmartKroy.resources
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.SupplierForm.resources
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinForms.79E25943.Up2Date
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\refint\WinFormsApp.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.pdb
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.genruntimeconfig.cache
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\ref\WinFormsApp.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Asus\Downloads\C#\PRoject\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.Supplier_login.resources
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.exe
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.deps.json
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.runtimeconfig.json
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.pdb
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.Management.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AdminDashboard.resources
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AdminDetails.resources
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AdminLogin.resources
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.Cart.resources
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.ClothesUser.resources
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.CreateAccount.resources
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.HomePage.resources
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.HomeUser.resources
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.HouseProductUser.resources
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.LoginForm.resources
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.ManageProductsForm.resources
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.ManageSuppliersForm.resources
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.PCPartsUser.resources
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.Properties.Resources.resources
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.RecordForm.resources
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.SmartKroy.resources
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.SupplierForm.resources
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.Supplier_login.resources
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.GenerateResource.cache
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AssemblyInfo.cs
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinForms.79E25943.Up2Date
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\refint\WinFormsApp.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.pdb
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.genruntimeconfig.cache
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\ref\WinFormsApp.dll
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp1.SupplierLoginAfter.resources
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.CatagoryForm.resources
+D:\C# project\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.customerManagement.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.exe
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.deps.json
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.runtimeconfig.json
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.pdb
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AdminDashboard.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AdminDetails.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AdminLogin.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.Cart.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.CatagoryForm.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.ClothesUser.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.CreateAccount.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.customerManagement.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.HomePage.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.HomeUser.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.HouseProductUser.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.LoginForm.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.ManageProductsForm.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.ManageSuppliersForm.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.PCPartsUser.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.Properties.Resources.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.RecordForm.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.SmartKroy.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.SupplierForm.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp1.SupplierLoginAfter.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.Supplier_login.resources
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinForms.79E25943.Up2Date
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\refint\WinFormsApp.dll
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.pdb
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.genruntimeconfig.cache
+C:\Users\mahin\OneDrive\Desktop\New folder\AllUIDone\Project\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\ref\WinFormsApp.dll
